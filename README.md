@@ -125,23 +125,12 @@ Atribut yang digunakan pada kelas `Film` meliputi:
 
 | Atribut | Tipe Data | Deskripsi |
 | --- | --- | --- |
-| `id` | String | Identifier unik untuk setiap film |
+| `idFilm` | String | Identifier unik untuk setiap film |
 | `judul` | String | Judul film |
 | `genre` | String | Genre atau kategori film |
-| `durasi` | Integer | Durasi film dalam satuan menit (> 0) |
+| `durasiMenit` | Integer | Durasi film dalam satuan menit (> 0) |
 | `rating` | Float / Double | Rating film dalam rentang 0.0 - 10.0 |
 | `gambar` | String | Relative path berkas poster film (*Khusus PHP*) |
-
----
-
-### Sample Gambar Poster Film (PHP/images)
-
-* **Avatar The Way of Water**: `![Avatar](./PHP/images/Avatar%20The%20Way%20of%20Water.jpeg)`
-* **Avengers Infinity War**: `![Avengers](./PHP/images/Avengers%20Infinity%20War.jpg)`
-* **Godzilla Minus One**: `![Godzilla](./PHP/images/Godzilla%20Minus%20One.jpg)`
-* **Moana**: `![Moana](./PHP/images/Moana.jpg)`
-* **Oppenheimer**: `![Oppenheimer](./PHP/images/Oppenheimer.jpg)`
-* **Titanic**: `![Titanic](./PHP/images/Titanic.jpg)`
 
 ---
 
