@@ -1,9 +1,7 @@
-# TP1DPBO2526C2
-
-## Janji
+# Janji
 Saya R Mohammad Fikry Mushoffa S dengan NIM 2502049 mengerjakan Tugas Praktikum 1 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-## Struktur Folder
+# Struktur Folder
 
 ```
 TP1DPBO2526C2/
@@ -126,9 +124,9 @@ TP1DPBO2526C2/
 
 ---
 
-## Penjelasan Fitur
+# Penjelasan Fitur
 
-### Fitur Utama
+## Fitur Utama
 
 | Fitur | Deskripsi |
 |-------|-----------|
